@@ -1,0 +1,23 @@
+h1{
+    color: chartreuse;
+}
+img{
+    width: 480px    ;
+}
+
+#thirdDiv{
+    height:600px;
+    width: 600px;
+    background-color: darkred;
+    padding: 50xp;
+    border: 10px solid rgb(255, 217, 0);    
+}
+
+#spanID{
+    margin: 50px;
+    font-size: 18px;
+}
+.divclass {
+    border: 10px solid rgb(255, 0, 128);  
+
+}
